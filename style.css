@@ -1,0 +1,36 @@
+p{
+    color:white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+h1{
+    color:white;
+}
+
+td{
+    color:black;
+    background-color: white;
+    padding-left: 8px
+    
+}
+
+th{
+    color:black;
+}
+
+th{
+    font-weight: 800;
+    background-color: white;
+
+}
+
+h3{
+    color:white;
+
+}
+#a{
+    text-decoration: none;
+}
